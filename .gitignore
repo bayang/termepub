@@ -4,5 +4,4 @@
 .project
 /.settings/
 *.epub
-*.jar
 dependency-reduced-pom.xml

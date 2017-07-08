@@ -8,6 +8,8 @@ This can be useful to open some documentation when connected to a headless serve
 
 Obviously pictures are not displayed.
 
+A built .jar is in the repo so you don't have to compile it yourself.
+
 When you launch it, you get an interactive prompt.
 
 At the prompt you can :
