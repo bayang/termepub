@@ -1,6 +1,6 @@
-# Termepub : an epub reader for terminal
+# Termepub : an epub reader for terminal
 
-## What ?
+## What ?
 
 This is toy a Java app destined to open .epub files directly in your terminal.
 
@@ -42,15 +42,13 @@ Typical flow is :
 
 Overview
 
-![Completion](file_completion.png)
-
 TAB completion (pressed `a` then `TAB` multiple times to cycle through file names)
 
 ![toc](toc.png)
 
 Table of contents, now just hit `q` to exit and enter the number you want.
 
-## TODO
+## TODO
 
 * better packaging (launching a jar isn't optimal). Currently it is a so called fat jar or uber jar (all dependencies are provided in it, so you just need this only jar). The current jar weights 1.9Mo.
 
